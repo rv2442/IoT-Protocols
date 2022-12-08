@@ -1,10 +1,9 @@
-## This repository is to demonstrate IoT protocols for beginners. It provides basic demonstration of 6 IoT protocols.
->1. COAP  
->2. AMQP  
->3. SOAP  
->4. HTTP  
->5. MQTT
->6. MODBUS
+## This repository is to demonstrate IoT protocols for beginners. It provides basic demonstration of 5 IoT protocols.  
+>1. AMQP  
+>2. SOAP  
+>3. HTTP  
+>4. MQTT
+>5. MODBUS
 
 ## References
 * [COAP](https://aiocoap.readthedocs.io/en/latest/examples.html)    
