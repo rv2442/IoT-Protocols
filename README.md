@@ -1,17 +1,15 @@
-## This repository is to demonstrate IoT protocols for beginners. It provides basic demonstration of 5 IoT protocols.  
+## This repository is to demonstrate IoT protocols for beginners. It provides basic demonstration of 4 IoT protocols.  
 >1. AMQP  
 >2. SOAP  
 >3. HTTP  
 >4. MQTT
->5. MODBUS
 
 ## References
 * [COAP](https://aiocoap.readthedocs.io/en/latest/examples.html)    
 * [AMQP](https://pypi.org/project/amqp/)      
 * [SOAP](https://docs.python-zeep.org/en/master/)    
 * [HTTP](https://docs.python.org/3/library/http.html)    
-* [MQTT](https://pypi.org/project/paho-mqtt/)  
-* [MODBUS](https://pymodbus.readthedocs.io/en/latest/source/example/modules.html)    
+* [MQTT](https://pypi.org/project/paho-mqtt/)     
 
 ## AMQP
 > Run it using below command, it will install rabbitmq locally and only then will any code under AMQP will work.    
