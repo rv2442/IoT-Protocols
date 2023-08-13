@@ -3,7 +3,6 @@
 >2. SOAP  
 >3. HTTP  
 >4. MQTT
->5. MODBUS
 
 ## References
 * [COAP](https://aiocoap.readthedocs.io/en/latest/examples.html)    
@@ -11,7 +10,6 @@
 * [SOAP](https://docs.python-zeep.org/en/master/)    
 * [HTTP](https://docs.python.org/3/library/http.html)    
 * [MQTT](https://pypi.org/project/paho-mqtt/)  
-* [MODBUS](https://pymodbus.readthedocs.io/en/latest/source/example/modules.html)    
 
 ## AMQP
 > Run it using below command, it will install rabbitmq locally and only then will any code under AMQP will work.    
